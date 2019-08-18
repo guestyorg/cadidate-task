@@ -312,7 +312,7 @@
             }
         },
         "reactstrap": {
-            "name": "reactstap",
+            "name": "reactstrap",
             "version": "8.0.1",
             "dependencies": {
                 "@babel/runtime": {
